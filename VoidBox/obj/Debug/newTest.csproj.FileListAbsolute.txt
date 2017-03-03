@@ -1,0 +1,12 @@
+F:\C# programs\newTest\newTest\bin\Debug\newTest.exe.config
+F:\C# programs\newTest\newTest\bin\Debug\newTest.exe
+F:\C# programs\newTest\newTest\bin\Debug\newTest.pdb
+F:\C# programs\newTest\newTest\obj\Debug\newTest.csprojResolveAssemblyReference.cache
+F:\C# programs\newTest\newTest\obj\Debug\newTest.exe
+F:\C# programs\newTest\newTest\obj\Debug\newTest.pdb
+F:\C# programs\universe\newTest\bin\Debug\newTest.exe.config
+F:\C# programs\universe\newTest\bin\Debug\newTest.exe
+F:\C# programs\universe\newTest\bin\Debug\newTest.pdb
+F:\C# programs\universe\newTest\bin\Debug\Deveel.Math.dll
+F:\C# programs\universe\newTest\obj\Debug\newTest.exe
+F:\C# programs\universe\newTest\obj\Debug\newTest.pdb
